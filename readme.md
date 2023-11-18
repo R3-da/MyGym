@@ -1,4 +1,4 @@
-## LaraGym - A Laravel gym management system
+## MyGym - A Laravel gym management system
 
 Finally a gym management system build with laravel and reactjs. Comes with powerful features that will allow you to scale and easily manage your gym or fitness centers.
 
@@ -20,7 +20,7 @@ For professional support please email me at johndavedecano@gmail.com
 1. API Setup
 
 ```bash
-$ git clone git@github.com:johndavedecano/laragym.git project
+$ git clone git@github.com:R3-da/mygym.git project
 $ cd project
 $ composer install
 $ cp .env.example .env # THEN EDIT YOUR ENV FILE ACCORDING TO YOUR OWN SETTINGS.
