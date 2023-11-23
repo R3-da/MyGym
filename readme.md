@@ -1,4 +1,4 @@
-## MyGym - A Laravel gym management system
+## MyGym - A Laravel and React gym management system
 
 Finally a gym management system build with laravel and reactjs. Comes with powerful features that will allow you to scale and easily manage your gym or fitness centers.
 
