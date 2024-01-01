@@ -15,6 +15,14 @@ Finally a gym management system build with laravel and reactjs. Comes with power
 
 For professional support please email me at johndavedecano@gmail.com
 
+## Requirements
+
+1. php v7.2.34
+2. composer v2.6.6
+3. laravel v5.7.29
+4. react v16.4.2
+5. MariaDB v10.4.28
+
 ## Installation
 
 1. API Setup
